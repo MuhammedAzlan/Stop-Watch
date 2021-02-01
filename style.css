@@ -1,0 +1,93 @@
+body {
+
+    color: black;
+    background: #42d0e9;
+    text-align: center;
+  }
+  
+  #start {
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #50e40c;
+    border:solid 2px #04afc5;
+    border-radius:5px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  #start:hover {
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: gray;
+    border:solid 2px #cad2d8;
+    border: radius 1;px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  
+  #stop {
+    margin: 40px 5px auto;
+    text-align: center;
+    font-weight: bold;
+    color: #DAD6D6;
+    background: #fa0840;
+    border:solid 2px #0bacc2;
+    border-radius:5px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  #stop:hover {
+    margin: 40px 5px auto;
+    text-align: center;
+    font-weight: bold;
+    color: #DAD6D6;
+    background: gray;
+    border:solid 2px #cfdadb;
+    border-radius:1px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  #reset {
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: #1135d8;
+    border:solid 2px #086db1f8;
+    border-radius:5px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  #reset:hover {
+    font-weight: bold;
+    margin: 40px auto;
+    text-align: center;
+    color: #DAD6D6;
+    background: gray;
+    border:solid 2px #bdc5caf8;
+    border-radius:1px;
+    padding:16px 40px 16px;
+    letter-spacing: 2px;
+    cursor:pointer;
+  }
+  h2
+  {
+    font-size: 46px;
+    letter-spacing: 2px;
+    margin: 200px 0 0 ;
+  }
+h1{
+
+    display: inline-block;
+    font-size: 46px;
+    letter-spacing: 2px;
+    margin: 200px 0 0 ;
+  }
